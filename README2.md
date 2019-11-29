@@ -1,5 +1,5 @@
 # User Profiles
-- As a <type of user>, I want <goal> so that <reason>
+- As a [type of user], I want [goal] so that [reason]
 - user stories do not include all the detail - they are only a pointer to the real requirement
 - Epics = huge user stories
 - 2 primary ways to add more detail:
