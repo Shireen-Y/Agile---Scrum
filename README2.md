@@ -54,6 +54,6 @@
     - Assigning estimates
     - Correcting estimates
     - Split stories that are high priority but too large to fit in an upcoming iteration
-  - Definition of done (D.O.D)
+- Definition of done (D.O.D)
   - Be more general
   - Agreed by all the team and product owner
