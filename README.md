@@ -37,3 +37,60 @@
     - Effectively 3-9 people
     - All doing whatever it takes to complete the agreed tasks
     - Everyone is not just committed, they are involved
+- Scrum events
+  - The sprint
+    - Includes
+      - Planning & development work
+      - Daily scrum
+      - Sprint review at the end
+      - Team retrospective before the next sprint
+    - During the sprint
+      - No changes are made to endanger the sprint goal
+      - Short planning horizon (no more than 1 month ahead)
+      - Scope may be clarified and re-negotiated between the product owner and the development team
+  - Daily scrum
+    - Format
+      - 15 min timeboxed event for the development team
+      - Held every day of the sprint
+      - Same time and place each day
+      - Focuses on progress towards the sprint goal
+      - Facilitated by the scrum master
+    - Typical individual contribution
+      - What I did yesterday that helped the team meet the sprint goal
+      - What I will do today to help the team meet the sprint goal
+    	Any impediment that prevents me or the team from meeting the sprint goal
+  - Sprint planning
+    - Format
+      - Collaborative work of the entire team
+      - Timeboxed according to the duration of the sprint
+    - Typical individual contribution
+      - What work will be done in this sprint?
+      - What is the goal of this sprint?
+  - Sprint review
+    - Format
+      - Informal discussion about what was done during the sprint and to adapt the product backlog
+      - Explain what has been done and what hasn’t
+      - Demonstrate the working package
+      -  Review timeline, budget, capabilities
+      - Timeboxed to 4 hours for a month-long spring or less if shorter sprint
+  - Sprint retrospective
+    - Format
+      - Identify what went well and what needs improvement
+      - Create a plan for improvements
+      - Timeboxed to 3 hours for a month-long sprint or less if shorter sprint
+- Scrum artefacts
+  - Product backlog
+    - Contains all of the stories to be done to complete the entire product
+  - Sprint backlog
+    - Contains only the stories to be worked on in the current sprint
+  - Increment
+    - A place of working software created in a sprint. The sum of all the increments forms the whole product
+  - Definition of done
+    - Shared agreement of what constitutes as ‘done’ for any story
+- Information radiators
+  - Task board
+    - Used to track the work visually, showing the state of the sprint for both the team and other stakeholders
+  - Burn up/down charts
+    - Used to track team velocity, showing work completed vs time
+  - Big visible charts
+    - Any of a number of handwritten, drawn, printed or electronic displays which a team which a team places in a highly visible location, so that all team members as well as passers-by can see the latest information at a glance
