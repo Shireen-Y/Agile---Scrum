@@ -1,0 +1,59 @@
+# User Profiles
+- As a <type of user>, I want <goal> so that <reason>
+- user stories do not include all the detail - they are only a pointer to the real requirement
+- Epics = huge user stories
+- 2 primary ways to add more detail:
+  - Splitting
+  - Conditions of satisfaction / acceptance criteria
+- Three amigos
+  - Tester
+  - Development
+  - Product owner
+  - Raises a lot of questions
+  - Gain a shared understanding of what is needed and what is going to happen
+  - All must agree that it is ready for development
+  - This should happen before planning
+  - Can happen again at story start
+- Writing a good user story
+  - Understandable (by normal people)
+  - Follow “As a… I want… So that…”
+  - Independent
+  - Negotiable
+  - Valuable
+  - Estimable
+  - Small
+  - Testable
+  - User comes first
+  - Use personas
+  - Create collaboratively
+  - Keep your stories simple
+  - Start with Epics
+  - Refine stories until they are ready
+  - Add acceptance criteria
+  - Use paper cards
+  - Keep them visible
+  - They are not everything
+  - The three C’s:
+    - Card
+    - Conversation
+    - Confirmation
+  - Acceptance criteria
+    	Include product owner
+    	Specific
+    	Given and when statements – given that… when…
+  - Estimation technique
+    - One technique is planning poker using a special deck of cards with numbers on them
+    - Decide on a scale representing the least to the most effort
+    - Issue planning poker cards to each team member each card has a single number on it
+    - The team discusses the effort of completing a task before revealing cards at the same time
+    - If there is a big difference of values revealed, the team discusses the reasoning behind the smallest and largest values then has another round until consensus is reached
+  - Backlog refinement
+    - Removing user stories that aren’t relevant
+    - Creating new user stories as a response to needs
+    - Re-assessing priority
+    - Assigning estimates
+    - Correcting estimates
+    - Split stories that are high priority but too large to fit in an upcoming iteration
+  - Definition of done (D.O.D)
+  - Be more general
+  - Agreed by all the team and product owner
