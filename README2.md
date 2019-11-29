@@ -38,9 +38,9 @@
     - Conversation
     - Confirmation
   - Acceptance criteria
-    	Include product owner
-    	Specific
-    	Given and when statements – given that… when…
+    - Include product owner
+    - Specific
+    - Given and when statements – given that… when…
   - Estimation technique
     - One technique is planning poker using a special deck of cards with numbers on them
     - Decide on a scale representing the least to the most effort
@@ -54,6 +54,6 @@
     - Assigning estimates
     - Correcting estimates
     - Split stories that are high priority but too large to fit in an upcoming iteration
-- Definition of done (D.O.D)
-  - Be more general
-  - Agreed by all the team and product owner
+  - Definition of done (D.O.D)
+    - Be more general
+    - Agreed by all the team and product owner
